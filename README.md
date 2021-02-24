@@ -1,13 +1,11 @@
 # bikesharing1
 
 ## Overview of the Analysis
-***
 Citibike runs a bikesharing service in New York City. They are looking to expand the services in other cities around the country and found an angel investor in Des Moines, IA.
 The bikesharing project is to analyze New York City CITI Bike data from August 2019 and then create a proposal on how it may work in Des Moines, IA.
 
 ## Results
-***
-Below you can view various visualizations detailing the how CITI Bikes are used in NYC. From these data, investors can determine how best to market and implement a CITI bikes program in Des Moines.
+Below you can view various visualizations detailing the how CITI Bikes are used in NYC. From these data, investors can determine how best to market and implement a CITI bikes program in Des Moines. See the full interactive dashboard [HERE](https://public.tableau.com/profile/olivia.blocker#!/).
 
 ### Top Starting and Ending Locations
 The graphs below show the top starting and ending locations for CITI Bikes. As you may suspect, the graphs look very similar with the majority of bikes being used towards the center of NYC. 
