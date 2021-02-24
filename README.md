@@ -12,17 +12,15 @@ Below you can view various visualizations detailing the how CITI Bikes are used 
 ### Top Starting and Ending Locations
 The graphs below show the top starting and ending locations for CITI Bikes. As you may suspect, the graphs look very similar with the majority of bikes being used towards the center of NYC. 
 
-<p align="center"> Vine Reviews </p>
 <p align="center">
-  <img src="https://github.com/liviblocker/bikesharing1/blob/main/images/Dashboard%201.png" width="600" />
+  <img src="https://github.com/liviblocker/bikesharing1/blob/main/images/Dashboard%201.png" width="800" />
 </p>
 
 ### Bike Use by Gender
 In August 2019, CITI bikes were predominantly used by men.
 
-<p align="center"> Vine Reviews </p>
 <p align="center">
-  <img src="https://github.com/liviblocker/bikesharing1/blob/main/images/Sheet%206.png" width="600" />
+  <img src="https://github.com/liviblocker/bikesharing1/blob/main/images/Sheet%206.png" width="800" />
 </p>
 
 ### Check Out Times
@@ -30,21 +28,19 @@ Check out times peaked between the hours of 5AM and 6AM, this can likely be attr
 
 <p align="center"> Vine Reviews </p>
 <p align="center">
-  <img src="https://github.com/liviblocker/bikesharing1/blob/main/images/Checkout_Times.png" width="600" />
+  <img src="https://github.com/liviblocker/bikesharing1/blob/main/images/Checkout_Times.png" width="800" />
 </p>
 
 ### Check Out Times by Gender
 This graph is similar to the one above, but breaks down checkout times by gender. As we learned from the "Bike Use by Gender" graph, in August 2019, more men used CITI bikes than women (or "unknown" genders), the below graph confirms that and shows the higher number of bikes that men check out througout the day.
 
-<p align="center"> Vine Reviews </p>
 <p align="center">
-  <img src="https://github.com/liviblocker/bikesharing1/blob/main/images/Checkout_Gender.png" width="600" />
+  <img src="https://github.com/liviblocker/bikesharing1/blob/main/images/Checkout_Gender.png" width="800" />
 </p>
 
 ### User Trips by Weekday per Hour
 These heatmaps show the time of day that trips are taken. Most CITI bikes are used in the evenings around 5PM-6PM with greatest use on Thursday evenings.
 
-<p align="center"> Vine Reviews </p>
 <p align="center">
   <img src="https://github.com/liviblocker/bikesharing1/blob/main/images/Trips_Weekday.png" width="600" />
 </p>
@@ -52,7 +48,6 @@ These heatmaps show the time of day that trips are taken. Most CITI bikes are us
 ### User Trips by Gender by Weekday
 The below heatmaps show the frequency of user trips by gender by weekday, broken up by user type. We can see that subscribers have a lot more frequent use than customers.
 
-<p align="center"> Vine Reviews </p>
 <p align="center">
   <img src="https://github.com/liviblocker/bikesharing1/blob/main/images/Trips_Gender.png" width="600" />
 </p>
@@ -60,7 +55,6 @@ The below heatmaps show the frequency of user trips by gender by weekday, broken
 ### User Trips by Gender (Weekday per Hour)
 Finally, this map shows frequency of CITI bike use by time of day by gender. With this heatmap we can see that the use pattern is roughly similar between men and women (though, again, this dataset shows men using CITI bikes more frequently). There is not discernable use pattern for "unknown" genders.
 
-<p align="center"> Vine Reviews </p>
 <p align="center">
   <img src="https://github.com/liviblocker/bikesharing1/blob/main/images/Trips_Gender_Weekday.png" width="600" />
 </p>
