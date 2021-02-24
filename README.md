@@ -24,7 +24,6 @@ In August 2019, CITI bikes were predominantly used by men.
 ### Check Out Times
 Check out times peaked between the hours of 5AM and 6AM, this can likely be attributed to folks commuting to work at that time.
 
-<p align="center"> Vine Reviews </p>
 <p align="center">
   <img src="https://github.com/liviblocker/bikesharing1/blob/main/images/Checkout_Times.png" width="1000" />
 </p>
